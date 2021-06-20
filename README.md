@@ -67,13 +67,19 @@
 
 ### 🎯 학습 목표
 - 프론트엔드의 기본이 되는 HTML, CSS, JS에 대한 기본 문법을 익혀 프로그래밍을 한다.
-- 팀 단위의 Github 사용법을 익힌다
+- HTML과 CSS의 기초를 튼튼하게 닦는다.
+- 바닐라 자바스크립트의 기초 문법을 익힌다.
+- 바닐라 자바스크립트로 인스타그램 메인 페이지와 로그인/회원가입 페이지를 구현해보고, 백엔드와 첫 API 통신을 해보며 처음으로 통신하는 사이트를 만들어본다.
+- 바닐라 자바스크립트와 CSS로 구현한 미니 인스타그램을 리액트와 SCSS로 마이그레이션 하는 과정을 통해, 리액트의 기초를 익혀 프로그래밍을 한다.
+- CRA로 리액트 초기셋팅을 하는 방법을 익힌다.
+- 팀 단위의 Github 사용법을 익힌다.
+- 코드리뷰를 해보며 남의 코드를 읽고 피드백을 주는 연습을 한다.
 
 ### 📝 기록
 |no|name|repository|PR|
 | :--: | :---------------: |:---------------: | :----------------------------------------------------------: | 
-|1|인스타그램 메인 피드, 로그인페이지|[https://github.com/wecode-bootcamp-korea/18-React-Westagram-3/tree/feature/sunanamgung/src/Pages/suna)|[LINK](https://github.com/wecode-bootcamp-korea/18-React-Westagram-3/pull/1)|
-|:--:|:--:|:--:|:--:|
+|2|인스타그램 with React|[LINK](https://github.com/wecode-bootcamp-korea/18-React-Westagram-3/tree/feature/sunanamgung/src/Pages/suna)|[LINK](https://github.com/wecode-bootcamp-korea/18-React-Westagram-3/pull/1)|
+|1|인스타그램 with Vanilla JS|[LINK](https://github.com/wecode-bootcamp-korea/westagram-frontend/tree/feature/sunanamgung)|[LINK](https://github.com/wecode-bootcamp-korea/westagram-frontend/pull/258)|
 
 ## 🌱 precourse
 ### 🗓 기간
@@ -81,12 +87,11 @@
 
 ### 🎯 학습 목표
 - 프론트엔드의 기본이 되는 HTML, CSS에 대한 기본 문법을 익혀 프로그래밍을 한다.
+- 스스로 프로그래밍 학습 계획을 세우고 학습 과정을 기록하며 본인에게 맞는 공부 방식을 찾는다.
 
 ### 📝 기록
 
-|no|name|repository|PR|
-| :--: | :---------------: |:---------------: | :----------------------------------------------------------: | 
-|1|자기소개 페이지 만들기|[LINK]|:--:|
-|:--:|:--:|:--:|:--:|
-|:--:|:--:|:--:|:--:|
+|no|name|repository|
+| :--: | :---------------: |:---------------: |
+|1|자기소개 페이지 만들기|[LINK]|
 
