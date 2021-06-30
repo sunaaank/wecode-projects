@@ -2,16 +2,20 @@
 🏓 위코드 부트캠프 18기 프론트엔드 과정에서 학습하고 기록한 것들을 모아놓은 저장소입니다.
 
 ## 🐤 보석 대여 쇼핑몰 GEMGEM (개인 프로젝트)
+### 👀 GEMGEM 미리보기
+![잼잼](https://images.velog.io/images/sunaaank/post/67185337-9afd-46c0-9cf0-96462cdd96f3/view.gif)
+
 ### 🗓 기간
- 2021.04.12 - 2021.05.06
+ 2021.04.12 - 2021.05.06 (풀스택 1명)
 
 ### 🐧 프로젝트 소개
 #### 보석 대여 E-commerce로, 루비온레일즈의 라이브러리인 GEM의 실제 정보를 받아와 제작한 프로젝트입니다.
-스타트업 전문 개발사 **인썸니아**에서 인턴 과제로 진행한 프로젝트로, 현업에서의 개발환경셋팅 및 레거시 코드 기반으로, E-Commerce 하이브리드앱 단독 개발 경험
-⇒ 첫 백엔드 개발 경험을 통해 API를 주고받는 과정 전반을 이해할 수 있었으며, 백엔드 기초 지식을 쌓을 수 있었습니다. 현업에서 사용하는 다양한 라이브러리를 학습해 개발 효율성을 높일 수 있는 방법을 경험을 하였습니다.
+- 스타트업 전문 개발사 **인썸니아**에서 인턴 과제로 진행한 프로젝트로, 현업에서의 개발환경셋팅 및 레거시 코드 기반으로, E-Commerce 하이브리드앱 단독 개발 경험을 했습니다.
+- 첫 백엔드 개발 경험을 통해 API를 주고받는 과정 전반을 이해할 수 있었으며, 백엔드 기초 지식을 쌓을 수 있었습니다. 
+- 현업에서 사용하는 다양한 라이브러리를 학습해 개발 생산성을 높였습니다.
 
 ### 🎯 학습 목표
-- 4주 기간 내에 프로덕트 개발
+- 4주 기간 내에 쇼핑몰 프로덕트 개발
 - React
 - Ruby On Rails
 - Framework7
@@ -19,9 +23,8 @@
 ### 📝 기록
 |no|name|record|
 | :----: |:---------------: | :----------------------------------------------------------: | 
-|1|record|[한 달간의 인턴생활을 마치며](...)|
-|2|front-end repository|--|
-|3|back-end repository|--|
+|1|record|[LINK](https://velog.io/@sunaaank/series/3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-GEMGEM)|
+|2|front-end repository|[LINK](https://github.com/sunaaank/GEMGEM-frontend)|
 
 
 
@@ -31,11 +34,16 @@
 - KKAKKA : 2021.03.15 ~ 2021.03.26 (프론트엔드 3명, 백엔드 2명)
 
 ### 🐧 프로젝트 소개
+#### 👀 WHAT THE PEDIA 미리보기
+![왓더피디아](https://media.vlpt.us/images/sunaaank/post/521401c8-538f-4ea1-b913-86a1805104b9/loginfinal2.gif)
+
+#### 👀 KKAKKA 미리보기
+![까까](https://media.vlpt.us/images/sunaaank/post/7f2fb9d3-06b1-4468-a62a-a71fb634b153/subscribe.gif)
 
 ### 🎯 학습 목표
 - `React`에 대한 문법을 익혀 CRA 등의 도구를 활용하여 모던 SPA 웹 애플리케이션을 개발한다.
 - `SASS`와 `Styled-components`를 익혀 각 프로젝트에 활용해 웹 애플리케이션을 개발한다.
-- 자신이 구현한 코드에 대해 테스트를 작성하고 리팩토링하여 읽기 좋은 코드로 변경해본다.
+- 자신이 구현한 코드를 리팩토링하여 읽기 좋은 코드로 변경해본다.
 - 두 차례의 팀 프로젝트를 통해 `Scrum` 방식을 익혀 팀 커뮤니케이션하며 서비스를 만들어본다.
 - 프론트엔드와 백엔드 커뮤니케이션을 통해 웹 애플리케이션을 개발한다.
 - Github commit rebase 방식을 익혀 프로젝트를 관리한다.
@@ -48,7 +56,7 @@
 |2|KKAKKA|[1st-KKAKKA-frontend](https://github.com/wecode-bootcamp-korea/18-1st-KKAKKA-frontend)|[프로젝트 후기](https://velog.io/@sunaaank/series/1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-KKAKKA)|
 
 
-#### 담당한 코드 기록
+#### 담당한 기능 기록
 |no|project|name|repository|PR|
 | :--: | :-------------:| :------------------------------------: |:-------------: | :-------------------------------: | 
 |1|WHAT THE PEDIA|카카오 로그인, 자체 로그인/회원가입|[LINK](https://github.com/wecode-bootcamp-korea/18-2nd-WHATTHEPEDIA-frontend/tree/master/src/Components)|[feature/user](https://github.com/wecode-bootcamp-korea/18-2nd-WHATTHEPEDIA-frontend/pull/6)|
@@ -93,5 +101,5 @@
 
 |no|name|repository|
 | :--: | :---------------: |:---------------: |
-|1|자기소개 페이지 만들기|[LINK]|
+|1|자기소개 페이지 만들기|[LINK](https://github.com/sunaaank/suna.git)|
 
