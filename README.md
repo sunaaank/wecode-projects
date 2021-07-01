@@ -9,10 +9,14 @@
  2021.04.12 - 2021.05.06 (풀스택 1명)
 
 ### 🐧 프로젝트 소개
-#### 보석 대여 E-commerce로, 루비온레일즈의 라이브러리인 GEM의 실제 정보를 받아와 제작한 프로젝트입니다.
+#### 보석 대여 E-commerce로, 루비온레일즈의 라이브러리인 GEM의 정보를 받아와 제작한 프로젝트입니다.
 - 스타트업 전문 개발사 **인썸니아**에서 인턴 과제로 진행한 프로젝트로, 현업에서의 개발환경셋팅 및 레거시 코드 기반으로, E-Commerce 하이브리드앱 단독 개발 경험을 했습니다.
-- 첫 백엔드 개발 경험을 통해 API를 주고받는 과정 전반을 이해할 수 있었으며, 백엔드 기초 지식을 쌓을 수 있었습니다. 
-- 현업에서 사용하는 다양한 라이브러리를 학습해 개발 생산성을 높였습니다.
+
+### 🛠 기술 스택
+- Front-end
+`React.js` `React Hooks` `TailwindCSS` `Recoil` `Framework7` 
+- Back-end
+`Ruby On Rails` `PostgreSQL`
 
 ### 🎯 학습 목표
 - 4주 기간 내에 쇼핑몰 프로덕트 개발
@@ -20,11 +24,20 @@
 - Ruby On Rails
 - Framework7
 
+### 주요 문제
+- `문제`: 전역 상태관리할 데이터(장바구니에 담긴 상품 데이터, 장바구니 상품 유무 체크 등)의 api 통신 위치, 상태 변경에 따른 의존성 배열 처리를 원활히 하기 위해 데이터 형태와 종류를 고치는 작업을 몇차례 진행하였음. 
+- `해결`: 유저가 로그인한 첫 화면에서 장바구니 상태 관련 데이터를 받아오도록 처리함
+- `회고`: 기능구현에 앞서 앱의 전체적인 상태 관리 구조와 흐름 설계가 중요함
+
+### ✨ 새롭게 알게 된 점
+- 첫 백엔드 개발 경험을 통해 API를 주고받는 과정 전반을 이해할 수 있었으며, 백엔드 기초 지식을 쌓을 수 있었습니다.
+- 기획부터 UI/UX 디자인 전반을 주도하며 앱의 UI(toast, dialog 등) 용어와 용도를 익혔습니다.
+- 현업에서 사용하는 다양한 라이브러리를 학습해 개발 생산성을 높였습니다.
+
 ### 📝 기록
 |no|name|record|
 | :----: |:---------------: | :----------------------------------------------------------: | 
-|1|record|[LINK](https://velog.io/@sunaaank/series/3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-GEMGEM)|
-|2|front-end repository|[LINK](https://github.com/sunaaank/GEMGEM-frontend)|
+|1|인턴 프로젝트 한달 후기|[LINK](https://velog.io/@sunaaank/gemgem-project)|
 
 
 
@@ -40,6 +53,11 @@
 #### 👀 KKAKKA 미리보기
 ![까까](https://media.vlpt.us/images/sunaaank/post/7f2fb9d3-06b1-4468-a62a-a71fb634b153/subscribe.gif)
 
+### 🛠 기술 스택
+- Front-end
+`React` `React Hooks` `React-Router`
+`SCSS` `Styled Components` `Git` `AWS EC2`
+
 ### 🎯 학습 목표
 - `React`에 대한 문법을 익혀 CRA 등의 도구를 활용하여 모던 SPA 웹 애플리케이션을 개발한다.
 - `SASS`와 `Styled-components`를 익혀 각 프로젝트에 활용해 웹 애플리케이션을 개발한다.
@@ -48,11 +66,20 @@
 - 프론트엔드와 백엔드 커뮤니케이션을 통해 웹 애플리케이션을 개발한다.
 - Github commit rebase 방식을 익혀 프로젝트를 관리한다.
 
+
+### ✨ 새롭게 알게 된 점
+- 사이트 구조 분석을 통해 각 페이지에 필요한 기능과 이벤트, 재사용할 컴포넌트를 구분하는 눈이 생겼다.
+- 컴포넌트 재사용, 함수 재사용을 좀 더 이해하고 활용하는 코드를 작성했다.
+- 리액트 클래스/함수 컴포넌트의 라이프사이클 및 사용상 차이점을 경험했다.
+- 카카오 서버를 경유하는 인증 방식에서의 데이터 송수신 과정을 체험했다.(OAuth2.0)
+- state의 불변성 유지를 위해 spread 연산자를 사용한 객체의 얕은 복사 방법을 이해했다.
+- git rebase를 통해 commit 메세지를 깔끔하게 관리할 수 있었다.
+
 ### 📝 기록
 #### 프로젝트 기록
 |no|name|repository|record|
 | :--: |:---------------: | :----------------: | :----------------------------------------------------------: | 
-|1|WHAT THE PEDIA |[2nd-WHATTHEPEDIA-frontend](https://github.com/sunaaank/18-2nd-WHATTHEPEDIA-frontend)|[프로젝트 후기](https://velog.io/@sunaaank/series/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%99%93%EB%8D%94%ED%94%BC%EB%94%94%EC%95%84)|
+|1|WHAT THE PEDIA |[2nd-WHATTHEPEDIA-frontend](https://github.com/wecode-bootcamp-korea/18-2nd-WHATTHEPEDIA-frontend)|[프로젝트 후기](https://velog.io/@sunaaank/series/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%99%93%EB%8D%94%ED%94%BC%EB%94%94%EC%95%84)|
 |2|KKAKKA|[1st-KKAKKA-frontend](https://github.com/wecode-bootcamp-korea/18-1st-KKAKKA-frontend)|[프로젝트 후기](https://velog.io/@sunaaank/series/1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-KKAKKA)|
 
 
