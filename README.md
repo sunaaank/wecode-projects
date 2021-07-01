@@ -129,7 +129,7 @@
 
 ### 📝 기록
 
-|no|name|repository|
-| :--: | :---------------: |:---------------: |
-|1|자기소개 페이지 만들기|[LINK](https://github.com/sunaaank/suna.git)|
+|no|name|repository|website|
+| :--: | :---------------: |:---------------: | :-------: |
+|1|자기소개 페이지 만들기|[LINK](https://github.com/sunaaank/suna.git)|[사이트 바로가기](https://sunaaank.github.io/suna/)|
 
