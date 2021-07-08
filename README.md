@@ -82,8 +82,8 @@
 #### 프로젝트 기록
 |no|name|repository|record|
 | :--: |:---------------: | :----------------: | :----------------------------------------------------------: | 
-|1|WHAT THE PEDIA |[2nd-WHATTHEPEDIA-frontend](https://github.com/wecode-bootcamp-korea/18-2nd-WHATTHEPEDIA-frontend)|[프로젝트 후기](https://velog.io/@sunaaank/series/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%99%93%EB%8D%94%ED%94%BC%EB%94%94%EC%95%84)|
-|2|KKAKKA|[1st-KKAKKA-frontend](https://github.com/wecode-bootcamp-korea/18-1st-KKAKKA-frontend)|[프로젝트 후기](https://velog.io/@sunaaank/series/1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-KKAKKA)|
+|1|WHAT THE PEDIA |[2nd-WHATTHEPEDIA-frontend](https://github.com/wecode-bootcamp-korea/18-2nd-WHATTHEPEDIA-frontend)|[프로젝트 후기](https://velog.io/@sunaaank/wtf-2)|
+|2|KKAKKA|[1st-KKAKKA-frontend](https://github.com/wecode-bootcamp-korea/18-1st-KKAKKA-frontend)|[프로젝트 후기](https://velog.io/@sunaaank/project1-2)|
 
 
 #### 담당한 기능 기록
